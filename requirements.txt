@@ -4,4 +4,8 @@ langchain
 python-dotenv
 faiss-cpu
 huggingface_hub
-
+InstructorEmbedding
+sentence-transformers==2.2.2
+langchain-community
+langchain-cli
+distutils-pytest
